@@ -73,7 +73,7 @@ aios-cli infer --model hf:TheBloke/Mistral-7B-Instruct-v0.1-GGUF:mistral-7b-inst
 Import your private key:
 
 ```bash
-aios-cli hive import-keys ./path_to_key.pem
+aios-cli hive import-keys ./key.pem
 ```
 
 Log in using your key:
