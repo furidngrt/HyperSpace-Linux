@@ -7,6 +7,10 @@ Run the installation command for Linux:
 curl https://download.hyper.space/api/install | bash
 ```
 
+```
+source /root/.bashrc
+```
+
 This script will:
 - Download the latest aios-cli binary.
 - Install required GPU drivers if applicable.
