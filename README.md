@@ -1,4 +1,4 @@
-# Hyperspace AIOS-CLI Tutorial with Screen for 24/7 Runtime
+# Hyperspace AIOS-CLI Tutorial
 
 ## Step 1: Install aios-cli
 Run the installation command for Linux:
