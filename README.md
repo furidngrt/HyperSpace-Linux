@@ -126,6 +126,13 @@ Ensure you’re connected to the Hive network and earning points:
 aios-cli hive points
 ```
 
+Check private key & PubKey
+
+```
+aios-cli hive whoami
+```
+
+
 ---
 
 By following these steps and using `screen`, you ensure the aios-cli runs 24/7, even if you disconnect from the VPS. Reattach to the screen session as needed to monitor or manage the daemon.
