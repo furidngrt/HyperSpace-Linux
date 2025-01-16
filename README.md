@@ -82,6 +82,10 @@ CTRL+A+D
 
 Import your private key:
 
+```
+nano key.pem
+```
+
 ```bash
 aios-cli hive import-keys ./key.pem
 ```
