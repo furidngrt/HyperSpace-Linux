@@ -68,9 +68,15 @@ aios-cli models add hf:TheBloke/Mistral-7B-Instruct-v0.1-GGUF:mistral-7b-instruc
 
 Run inference locally with the model:
 
+```
+screen -S infer
+```
+
 ```bash
 aios-cli infer --model hf:TheBloke/Mistral-7B-Instruct-v0.1-GGUF:mistral-7b-instruct-v0.1.Q4_K_S.gguf --prompt "Can you explain the concept of hyperspace and its applications in science fiction?"
 ```
+
+CTRL+A+D
 
 ## Step 4: Connect to the Hive Network
 
