@@ -102,12 +102,6 @@ Connect to the network to start providing model inference:
 aios-cli hive connect
 ```
 
-Start hosting local models and earning points:
-
-```bash
-aios-cli start --connect
-```
-
 If you encounter "Another instance is already running," ensure the daemon is running within the screen session started earlier.
 
 ## Step 5: Select a Tier and Start Earning Points
